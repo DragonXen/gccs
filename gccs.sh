@@ -2,9 +2,6 @@
 ## GCCS é um compilador android do GCC
 ## Burla o bloqueio de execução ELF do SELinux
 
-# tem como compilar diretamente na pasta /tmp?
-# tem como executar em /sdcard apos compilar?
-## nao. execuar diretamente no /tmp
 DIR=$(pwd)
 BIN="$HOME/.local/bin"
 
